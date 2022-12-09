@@ -1,0 +1,50 @@
+.area
+ {
+    margin-top: 60px;
+    text-align: center;
+}
+.follow a
+{
+    padding: 10px;
+    color: aquamarine
+    
+}
+@media screen and (max-width:600px)
+{
+    .follow a
+    {
+        padding: 5px;
+    }
+}
+.home img{
+    width: 100%;
+    height: auto;
+    object-position: center;
+    object-fit: cover;
+}
+
+.homecontent
+{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+}
+.homecontent h1
+{
+    color: aliceblue;
+}
+.homecontent a
+{
+    margin-top: 10px;
+}
+@media screen and (max-width:600px)
+{
+    .homecontent
+    {
+        position: absolute;
+        top: 50%;
+        left: 40%;
+        transform: translate(-50%,-50%);
+    }
+}

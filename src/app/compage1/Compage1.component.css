@@ -9,12 +9,3 @@
     background-color: aquamarine;
     padding: 15px;
 }
-.navbar
-{
-    background-color: antiquewhite;
-}
-.navbar-light .navbar-nav .nav-link:hover
-{
-    
-    text-decoration: underline;
-}
